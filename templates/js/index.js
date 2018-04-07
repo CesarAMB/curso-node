@@ -86,7 +86,7 @@ for(let key in objeto){
     console.log(key);
     console.log(Objeto[Key]);
 }
-www.3school;
+/* www.3school;
 Node.express.
 Fernando Gaitan desarrollador webki Node.js
 tutorialspoint 
@@ -101,7 +101,7 @@ let objeto2 = {
 
 }
 
-
+ */
 
 
 let objeto = {
